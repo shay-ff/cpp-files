@@ -1,0 +1,1 @@
+{"name":"Local: 445D","url":"/Users/drextor/CP/Atcoder/401/445D.cpp","tests":[{"id":1744512600628,"input":"4","output":"400"},{"id":1744512615427,"input":"2 7 2","output":"2"},{"id":1744512765512,"input":"19042 20000000 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/drextor/CP/Atcoder/401/445D.cpp","group":"local","local":true}

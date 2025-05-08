@@ -1,0 +1,1 @@
+{"name":"Local: use","url":"/Users/drextor/CP/Codeforces/Live/1018/use.cpp","tests":[{"id":1745159280938,"input":"geeksforgeeks\n2","output":"5"},{"id":1745159530356,"input":"abcabcabc\n3","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/drextor/CP/Codeforces/Live/1018/use.cpp","group":"local","local":true}
